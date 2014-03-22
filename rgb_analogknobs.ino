@@ -1,3 +1,10 @@
+/*
+By Michael Nuro Spetås
+Michael.Nuro.Spetas@gmail.com
+
+feel free to use and modify
+ */
+
 const int wPin = 6;
 const int rPin = 9;
 const int gPin = 10;
